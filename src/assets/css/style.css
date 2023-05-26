@@ -1,0 +1,33 @@
+.bg-filter-active {
+    background-color: #1BAF9F;
+    border: none;
+}
+
+.bg-filter-active:hover {
+    background-color: #30c5b6;
+    border: none;
+}
+
+.bg-filter-inactive {
+    background-color: #788997;
+    border: none;
+}
+
+.bg-filter-inactive:hover {
+    background-color: #99a5af;
+    border: none;
+}
+
+.button-add {
+    background-color: #6459F5;
+    border: none;
+}
+
+.button-add:hover {
+    background-color: #3f33e0;
+    border: none;
+}
+
+.border-gray {
+    border-color: #CFD7DC;
+}
